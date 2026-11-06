@@ -2,8 +2,7 @@ cask "tabletist" do
   version "0.4.1"
   sha256 "3d0966ab2cc4662213463c0952971f91409d6dd604df62547e32914c3ab25da4"
 
-  url "https://github.com/igor-alexandrov/tabletist/releases/download/v#{version}/tabletist-v#{version}-macos-universal.dmg",
-      verified: "github.com/igor-alexandrov/tabletist/"
+  url "https://github.com/igor-alexandrov/tabletist/releases/download/v#{version}/tabletist-v#{version}-macos-universal.dmg"
   name "Tabletist"
   desc "Native database client for PostgreSQL, MySQL, SQLite and BigQuery"
   homepage "https://igor.works/tabletist/"
