@@ -1,8 +1,8 @@
 class Tabletist < Formula
   desc "Native database client for PostgreSQL, MySQL, SQLite and BigQuery"
   homepage "https://igor.works/tabletist/"
-  url "https://github.com/igor-alexandrov/tabletist/releases/download/v0.6.0/tabletist-v0.6.0-source.tar.gz"
-  sha256 "a65ca160b865e530928f0421db0940c176953e44a7697467db5ec3f1e07e293e"
+  url "https://github.com/igor-alexandrov/tabletist/releases/download/v0.6.1/tabletist-v0.6.1-source.tar.gz"
+  sha256 "a560adfd425941440fb69df884c9ac11d71c643bea76dadf9ce6422be958317c"
   license "MIT"
   head "https://github.com/igor-alexandrov/tabletist.git", branch: "main"
 

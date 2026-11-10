@@ -1,6 +1,6 @@
 cask "tabletist" do
-  version "0.6.0"
-  sha256 "2d719ce8902e25bc1777d006b896cec7bf88aefd90daf16d2cbf770430774200"
+  version "0.6.1"
+  sha256 "2a291895f50b840bff825ba2b7f625d541508bc1097e9c5888f437f8a4278585"
 
   url "https://github.com/igor-alexandrov/tabletist/releases/download/v#{version}/tabletist-v#{version}-macos-universal.dmg"
   name "Tabletist"
